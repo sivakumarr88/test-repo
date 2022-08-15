@@ -11,5 +11,9 @@ public class HelloWorld {
 		System.out.println(str);
 		String str1 = "second msg";
 	}
+	
+	public static void method2() {
+		System.out.println("method2");
+	}
 
 }
